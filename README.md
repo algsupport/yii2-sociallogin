@@ -28,4 +28,5 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \algsupport\sociallogin\AutoloadExample::widget(); ?>```
+<?= \algsupport\sociallogin\AutoloadExample::widget(); ?>
+```

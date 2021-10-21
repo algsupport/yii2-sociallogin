@@ -1,0 +1,21 @@
+{
+    "name": "algsupport/yii2-sociallogin",
+    "description": "ALGsupport social login plugin allows you to login through various social platforms like facebook, gmail and twitter. And it also give you user information like name, email, profile-pic etc.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","social login"," facebook login"," google login"," twitter login"," gmail login"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "ALGsupport.com",
+            "email": "admin@algsupport.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "algsupport\\sociallogin\\": ""
+        }
+    }
+}
