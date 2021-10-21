@@ -1,6 +1,6 @@
-BitsNinja Social Login
+ALGsupport Social Login
 ======================
-BitsNinja social login plugin allows you to login through various social platforms like facebook, gmail and twitter. And it also give you user informations like name, email, profile-pic etc.
+ALGsupport social login plugin allows you to login through various social platforms like facebook, gmail and twitter. And it also give you user informations like name, email, profile-pic etc.
 
 Installation
 ------------
